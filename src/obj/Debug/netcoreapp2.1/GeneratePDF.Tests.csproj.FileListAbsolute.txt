@@ -1,0 +1,64 @@
+D:\GIT\Repo\RACGPCPDAWSApi\src\RACGP.CPD\GeneratePDF.Tests\obj\Debug\netcoreapp2.1\GeneratePDF.Tests.csprojAssemblyReference.cache
+D:\GIT\Repo\RACGPCPDAWSApi\src\RACGP.CPD\GeneratePDF.Tests\obj\Debug\netcoreapp2.1\GeneratePDF.Tests.csproj.CoreCompileInputs.cache
+D:\GIT\Repo\RACGPCPDAWSApi\src\RACGP.CPD\GeneratePDF.Tests\obj\Debug\netcoreapp2.1\GeneratePDF.Tests.AssemblyInfoInputs.cache
+D:\GIT\Repo\RACGPCPDAWSApi\src\RACGP.CPD\GeneratePDF.Tests\obj\Debug\netcoreapp2.1\GeneratePDF.Tests.AssemblyInfo.cs
+D:\GIT\Repo\RACGPCPDAWSApi\src\RACGP.CPD\GeneratePDF.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\GIT\Repo\RACGPCPDAWSApi\src\RACGP.CPD\GeneratePDF.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+D:\GIT\Repo\RACGPCPDAWSApi\src\RACGP.CPD\GeneratePDF.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+D:\GIT\Repo\RACGPCPDAWSApi\src\RACGP.CPD\GeneratePDF.Tests\bin\Debug\netcoreapp2.1\GeneratePDF.Tests.deps.json
+D:\GIT\Repo\RACGPCPDAWSApi\src\RACGP.CPD\GeneratePDF.Tests\bin\Debug\netcoreapp2.1\GeneratePDF.Tests.runtimeconfig.json
+D:\GIT\Repo\RACGPCPDAWSApi\src\RACGP.CPD\GeneratePDF.Tests\bin\Debug\netcoreapp2.1\GeneratePDF.Tests.runtimeconfig.dev.json
+D:\GIT\Repo\RACGPCPDAWSApi\src\RACGP.CPD\GeneratePDF.Tests\bin\Debug\netcoreapp2.1\GeneratePDF.Tests.dll
+D:\GIT\Repo\RACGPCPDAWSApi\src\RACGP.CPD\GeneratePDF.Tests\bin\Debug\netcoreapp2.1\GeneratePDF.Tests.pdb
+D:\GIT\Repo\RACGPCPDAWSApi\src\RACGP.CPD\GeneratePDF.Tests\bin\Debug\netcoreapp2.1\GeneratePDF.dll
+D:\GIT\Repo\RACGPCPDAWSApi\src\RACGP.CPD\GeneratePDF.Tests\bin\Debug\netcoreapp2.1\GeneratePDF.pdb
+D:\GIT\Repo\RACGPCPDAWSApi\src\RACGP.CPD\GeneratePDF.Tests\obj\Debug\netcoreapp2.1\GeneratePDF.Tests.csproj.CopyComplete
+D:\GIT\Repo\RACGPCPDAWSApi\src\RACGP.CPD\GeneratePDF.Tests\obj\Debug\netcoreapp2.1\GeneratePDF.Tests.dll
+D:\GIT\Repo\RACGPCPDAWSApi\src\RACGP.CPD\GeneratePDF.Tests\obj\Debug\netcoreapp2.1\GeneratePDF.Tests.pdb
+D:\GIT\Repo\RACGPCPDAWSApi\src\RACGP.CPD\GeneratePDF.Tests\bin\Debug\netcoreapp2.1\PDFTemplates\ExamEnrolmentsTemplate.fdf
+D:\GIT\Repo\RACGPCPDAWSApi\src\RACGP.CPD\GeneratePDF.Tests\bin\Debug\netcoreapp2.1\PDFTemplates\ExamEnrolmentsTemplate.pdf
+D:\GIT\Repo\RACGPCPDAWSApi\src\RACGP.CPD\GeneratePDF.Tests\bin\Debug\netcoreapp2.1\PDFTemplates\ExamEnrolmentsTemplateFILLED.fdf
+D:\GIT\Repo\RACGPCPDAWSApi\src\RACGP.CPD\GeneratePDF.Tests\bin\Debug\netcoreapp2.1\PDFTemplates\623989.fdf
+D:\GIT\Repo\RACGPCPDAWSApi\src\RACGP.CPD\GeneratePDF.Tests\bin\Debug\netcoreapp2.1\PDFTemplates\CPD Accredited Activity – Completion.pdf
+D:\GIT\Repo\RACGPCPDAWSApi\src\RACGP.CPD\GeneratePDF.Tests\bin\Debug\netcoreapp2.1\PDFTemplates\623989 - Copy.fdf
+D:\GIT\Repo\RACGPCPDAWSApi\src\RACGP.CPD\GeneratePDF.Tests\bin\Debug\netcoreapp2.1\PDFTemplates\2020-22_CPD_Accredited_Activity_Completion-TEST.fdf
+D:\GIT\Repo\RACGPCPDAWSApi\src\RACGP.CPD\GeneratePDF.Tests\bin\Debug\netcoreapp2.1\PDFTemplates\2020-22_CPD_Accredited_Activity_Completion.fdf
+D:\GIT\Repo\RACGPCPDAWSApi\src\RACGP.CPD\GeneratePDF.Tests\bin\Debug\netcoreapp2.1\PDFTemplates\2020-22_CPD_Accredited_Activity_Completion.pdf
+D:\GIT\Repo\RACGPCPDAWSApi\src\RACGP.CPD\GeneratePDF.Tests\bin\Debug\netcoreapp2.1\PDFTemplates\CPD Activity – Completion.pdf
+D:\GIT\Repo\RACGPCPDAWSApi\src\RACGP.CPD\GeneratePDF.Tests\bin\Debug\netcoreapp2.1\PDFTemplates\Test Doc1.pdf
+D:\GIT\Repo\RACGPCPDAWSApi\src\RACGP.CPD\GeneratePDF.Tests\bin\Debug\netcoreapp2.1\PDFTemplates\Test Doc2.pdf
+D:\GIT\Repo\RACGPCPDAWSApi\src\RACGP.CPD\GeneratePDF.Tests\bin\Debug\netcoreapp2.1\PDFTemplates\Test1-RM.pdf
+D:\GIT\Repo\RACGPCPDAWSApi\src\RACGP.CPD\GeneratePDF.Tests\bin\Debug\netcoreapp2.1\PDFTemplates\Test2-RM.pdf
+\\srvfile01\users$\ravi.wickramanayake\Downloads\GeneratePDF.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+\\srvfile01\users$\ravi.wickramanayake\Downloads\GeneratePDF.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+\\srvfile01\users$\ravi.wickramanayake\Downloads\GeneratePDF.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+\\srvfile01\users$\ravi.wickramanayake\Downloads\GeneratePDF.Tests\bin\Debug\netcoreapp2.1\PDFTemplates\2020-22_CPD_Accredited_Activity_Completion-TEST.fdf
+\\srvfile01\users$\ravi.wickramanayake\Downloads\GeneratePDF.Tests\bin\Debug\netcoreapp2.1\PDFTemplates\Test1-RM.pdf
+\\srvfile01\users$\ravi.wickramanayake\Downloads\GeneratePDF.Tests\bin\Debug\netcoreapp2.1\PDFTemplates\Test2-RM.pdf
+\\srvfile01\users$\ravi.wickramanayake\Downloads\GeneratePDF.Tests\bin\Debug\netcoreapp2.1\GeneratePDF.Tests.deps.json
+\\srvfile01\users$\ravi.wickramanayake\Downloads\GeneratePDF.Tests\bin\Debug\netcoreapp2.1\GeneratePDF.Tests.runtimeconfig.json
+\\srvfile01\users$\ravi.wickramanayake\Downloads\GeneratePDF.Tests\bin\Debug\netcoreapp2.1\GeneratePDF.Tests.runtimeconfig.dev.json
+\\srvfile01\users$\ravi.wickramanayake\Downloads\GeneratePDF.Tests\bin\Debug\netcoreapp2.1\GeneratePDF.Tests.dll
+\\srvfile01\users$\ravi.wickramanayake\Downloads\GeneratePDF.Tests\bin\Debug\netcoreapp2.1\GeneratePDF.Tests.pdb
+\\srvfile01\users$\ravi.wickramanayake\Downloads\GeneratePDF.Tests\obj\Debug\netcoreapp2.1\GeneratePDF.Tests.csprojAssemblyReference.cache
+\\srvfile01\users$\ravi.wickramanayake\Downloads\GeneratePDF.Tests\obj\Debug\netcoreapp2.1\GeneratePDF.Tests.csproj.CoreCompileInputs.cache
+\\srvfile01\users$\ravi.wickramanayake\Downloads\GeneratePDF.Tests\obj\Debug\netcoreapp2.1\GeneratePDF.Tests.AssemblyInfoInputs.cache
+\\srvfile01\users$\ravi.wickramanayake\Downloads\GeneratePDF.Tests\obj\Debug\netcoreapp2.1\GeneratePDF.Tests.AssemblyInfo.cs
+\\srvfile01\users$\ravi.wickramanayake\Downloads\GeneratePDF.Tests\obj\Debug\netcoreapp2.1\GeneratePDF.Tests.dll
+\\srvfile01\users$\ravi.wickramanayake\Downloads\GeneratePDF.Tests\obj\Debug\netcoreapp2.1\GeneratePDF.Tests.pdb
+\\srvfile01\users$\ravi.wickramanayake\Downloads\GeneratePDF.Tests\src\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+\\srvfile01\users$\ravi.wickramanayake\Downloads\GeneratePDF.Tests\src\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+\\srvfile01\users$\ravi.wickramanayake\Downloads\GeneratePDF.Tests\src\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+\\srvfile01\users$\ravi.wickramanayake\Downloads\GeneratePDF.Tests\src\bin\Debug\netcoreapp2.1\PDFTemplates\Test1-RM.pdf
+\\srvfile01\users$\ravi.wickramanayake\Downloads\GeneratePDF.Tests\src\bin\Debug\netcoreapp2.1\PDFTemplates\Test2-RM.pdf
+\\srvfile01\users$\ravi.wickramanayake\Downloads\GeneratePDF.Tests\src\bin\Debug\netcoreapp2.1\GeneratePDF.Tests.deps.json
+\\srvfile01\users$\ravi.wickramanayake\Downloads\GeneratePDF.Tests\src\bin\Debug\netcoreapp2.1\GeneratePDF.Tests.runtimeconfig.json
+\\srvfile01\users$\ravi.wickramanayake\Downloads\GeneratePDF.Tests\src\bin\Debug\netcoreapp2.1\GeneratePDF.Tests.runtimeconfig.dev.json
+\\srvfile01\users$\ravi.wickramanayake\Downloads\GeneratePDF.Tests\src\bin\Debug\netcoreapp2.1\GeneratePDF.Tests.dll
+\\srvfile01\users$\ravi.wickramanayake\Downloads\GeneratePDF.Tests\src\bin\Debug\netcoreapp2.1\GeneratePDF.Tests.pdb
+\\srvfile01\users$\ravi.wickramanayake\Downloads\GeneratePDF.Tests\src\obj\Debug\netcoreapp2.1\GeneratePDF.Tests.csprojAssemblyReference.cache
+\\srvfile01\users$\ravi.wickramanayake\Downloads\GeneratePDF.Tests\src\obj\Debug\netcoreapp2.1\GeneratePDF.Tests.csproj.CoreCompileInputs.cache
+\\srvfile01\users$\ravi.wickramanayake\Downloads\GeneratePDF.Tests\src\obj\Debug\netcoreapp2.1\GeneratePDF.Tests.AssemblyInfoInputs.cache
+\\srvfile01\users$\ravi.wickramanayake\Downloads\GeneratePDF.Tests\src\obj\Debug\netcoreapp2.1\GeneratePDF.Tests.AssemblyInfo.cs
+\\srvfile01\users$\ravi.wickramanayake\Downloads\GeneratePDF.Tests\src\obj\Debug\netcoreapp2.1\GeneratePDF.Tests.dll
+\\srvfile01\users$\ravi.wickramanayake\Downloads\GeneratePDF.Tests\src\obj\Debug\netcoreapp2.1\GeneratePDF.Tests.pdb

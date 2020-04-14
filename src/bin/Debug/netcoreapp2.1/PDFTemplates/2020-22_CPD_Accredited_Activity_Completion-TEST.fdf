@@ -1,0 +1,22 @@
+%FDF-1.2
+	1 0 obj
+	<<
+	/FDF << /Fields [
+	<< /V (TEST NAME)/T (Name)>>
+	<< /V (123456)/T (RACGP No 2)>>
+	<< /V (Some Course Name)/T (Course Name 1)>>
+	<< /V (ABCD)/T (ACTIVITY No 2)>>
+	<< /V (20/02/2020)/T (ACTIVITY No 1)>>
+	<< /V ()/T (ActivityCategory - Not Used)>>
+	<< /V ()/T (ActivityTopicText - Not Used)>>
+	<< /V (Some Bottom Text)/T (Bottom Field)>>
+	<< /V ()/T (Triennium - Not Used)>>
+	]
+	/F (../Forms/2020-22_CPD_Accredited_Activity_Completion.pdf)
+	>>
+	>>
+	endobj
+	trailer
+	<</Root 1 0 R>>
+	%%EOF
+
